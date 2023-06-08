@@ -1,3 +1,3 @@
 # @nakedjsx/express-jsx
 
-A JSX express template engine powered by NakedJSX.
+Coming soon: A JSX Express template engine powered by NakedJSX.
